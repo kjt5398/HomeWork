@@ -1,0 +1,8 @@
+(ExpressProject "home_atmega328"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects"))

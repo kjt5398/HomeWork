@@ -1,0 +1,192 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Tue Jul 16 23:55:39 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=1680 CPUs=4
+\t (00:00:03) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\7.16HOME\allegro\HOME_ATMEGA328.brd
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/USERS/USER/DESKTOP/7.16HOME/allegro/HOME_ATMEGA328.brd
+\i (00:00:05) trapsize 10372
+\i (00:00:05) trapsize 10186
+\i (00:00:05) trapsize 10404
+\i (00:00:05) trapsize 10599
+\i (00:00:05) trapsize 9189
+\i (00:00:05) trapsize 13682
+\i (00:00:05) generaledit 
+\i (00:00:16) place manual 
+\i (00:00:17) setwindow form.plc_manual
+\i (00:00:17) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:00:18) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\w (00:00:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:18) Placing J2 / DIPSOC-14X2_HOME_ATMEGA328_DIPS / HOME_ATMEGA328 on Top.
+\i (00:00:20) setwindow pcb
+\i (00:00:20) pick grid 11875.62 14393.03
+\t (00:00:20) last pick:  11900.00 14400.00
+\i (00:00:21) setwindow form.plc_manual
+\i (00:00:21) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
+\t (00:00:22) Placing J3 / DIPSOC-14X2_HOME_ATMEGA328_DIPS / HOME_ATMEGA328 on Top.
+\i (00:00:22) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick grid 13243.78 14393.03
+\t (00:00:24) last pick:  13200.00 14400.00
+\i (00:00:26) setwindow form.plc_manual
+\i (00:00:26) FORM plc_manual done  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) generaledit 
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 11902.98 13517.41
+\i (00:00:26) trapsize 6841
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 11902.98 13517.42
+\i (00:00:27) trapsize 3420
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 11902.99 13517.42
+\i (00:00:27) trapsize 1710
+\i (00:00:28) roam start
+\i (00:00:28) roam y -64
+\i (00:00:29) roam y -32
+\i (00:00:29) roam end
+\i (00:00:31) add connect 
+\t (00:00:31) Pick first element.
+\i (00:00:31) pick grid 12518.67 14406.72
+\t (00:00:31) last pick:  12525.00 14400.00
+\t (00:00:31) last pick:  12500.00 14400.00
+\t (00:00:31) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:31) last pick:  12500.00 14400.00
+\i (00:00:32) mouse_pos 13113.82 14413.56
+\i (00:00:32) pick grid 13189.06 14413.56
+\t (00:00:32) last pick:  13200.00 14425.00
+\t (00:00:32) No DRC errors detected.
+\t (00:00:32) Pick first element.
+\i (00:00:33) pick grid 13213.01 14300.69
+\t (00:00:33) last pick:  13225.00 14300.00
+\t (00:00:33) Pick first element.
+\t (00:00:33) last pick:  13200.00 14300.00
+\t (00:00:33) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:33) last pick:  13200.00 14300.00
+\i (00:00:33) mouse_pos 12556.29 14293.85
+\i (00:00:34) pick grid 12484.46 14304.11
+\t (00:00:34) last pick:  12475.00 14300.00
+\t (00:00:34) No DRC errors detected.
+\t (00:00:34) Pick first element.
+\i (00:00:34) pick grid 12470.78 14191.24
+\t (00:00:34) last pick:  12475.00 14200.00
+\t (00:00:34) Pick first element.
+\t (00:00:34) last pick:  12500.00 14200.00
+\t (00:00:34) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:34) last pick:  12500.00 14200.00
+\i (00:00:35) mouse_pos 13113.82 14194.66
+\i (00:00:35) pick grid 13189.06 14201.50
+\t (00:00:35) last pick:  13200.00 14200.00
+\t (00:00:35) No DRC errors detected.
+\t (00:00:35) Pick first element.
+\i (00:00:35) pick grid 13202.75 14088.63
+\t (00:00:35) last pick:  13200.00 14100.00
+\t (00:00:35) Pick first element.
+\t (00:00:35) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:35) last pick:  13200.00 14100.00
+\i (00:00:36) mouse_pos 12556.29 14095.47
+\i (00:00:36) pick grid 12487.88 14098.89
+\t (00:00:36) last pick:  12500.00 14100.00
+\t (00:00:36) No DRC errors detected.
+\t (00:00:36) Pick first element.
+\i (00:00:37) pick grid 12504.98 14003.12
+\t (00:00:37) last pick:  12500.00 14000.00
+\t (00:00:37) Pick first element.
+\t (00:00:37) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:37) last pick:  12500.00 14000.00
+\i (00:00:37) mouse_pos 13117.24 13972.33
+\i (00:00:37) pick grid 13189.06 13979.17
+\t (00:00:37) last pick:  13200.00 13975.00
+\t (00:00:37) No DRC errors detected.
+\t (00:00:37) Pick first element.
+\i (00:00:38) pick grid 13195.91 13914.19
+\t (00:00:38) last pick:  13200.00 13925.00
+\t (00:00:38) Pick first element.
+\t (00:00:38) last pick:  13200.00 13900.00
+\t (00:00:38) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:38) last pick:  13200.00 13900.00
+\i (00:00:38) mouse_pos 12559.71 13903.92
+\i (00:00:38) pick grid 12511.83 13897.08
+\t (00:00:38) last pick:  12500.00 13900.00
+\t (00:00:38) No DRC errors detected.
+\t (00:00:38) Pick first element.
+\i (00:00:39) pick grid 12508.40 13814.99
+\t (00:00:39) last pick:  12500.00 13825.00
+\t (00:00:39) Pick first element.
+\t (00:00:39) last pick:  12500.00 13800.00
+\t (00:00:39) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:39) last pick:  12500.00 13800.00
+\i (00:00:39) mouse_pos 13113.82 13811.57
+\i (00:00:40) pick grid 13213.01 13808.15
+\t (00:00:40) last pick:  13225.00 13800.00
+\t (00:00:40) No DRC errors detected.
+\t (00:00:40) Pick first element.
+\i (00:00:40) pick grid 13216.43 13688.44
+\t (00:00:40) last pick:  13225.00 13700.00
+\t (00:00:40) Pick first element.
+\t (00:00:40) last pick:  13200.00 13700.00
+\t (00:00:40) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:40) last pick:  13200.00 13700.00
+\i (00:00:40) mouse_pos 12556.29 13698.70
+\i (00:00:41) pick grid 12511.83 13691.86
+\t (00:00:41) last pick:  12500.00 13700.00
+\t (00:00:41) No DRC errors detected.
+\t (00:00:41) Pick first element.
+\i (00:00:41) pick grid 12504.98 13578.99
+\t (00:00:41) last pick:  12500.00 13575.00
+\t (00:00:41) Pick first element.
+\t (00:00:41) last pick:  12500.00 13600.00
+\t (00:00:41) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:41) last pick:  12500.00 13600.00
+\i (00:00:41) mouse_pos 13137.76 13551.62
+\i (00:00:42) pick grid 13209.59 13592.67
+\t (00:00:42) last pick:  13200.00 13600.00
+\t (00:00:42) No DRC errors detected.
+\t (00:00:42) Pick first element.
+\i (00:00:42) pick grid 13185.64 13514.00
+\t (00:00:42) last pick:  13175.00 13525.00
+\t (00:00:42) Pick first element.
+\t (00:00:42) last pick:  13200.00 13500.00
+\t (00:00:42) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:42) last pick:  13200.00 13500.00
+\i (00:00:43) mouse_pos 12559.71 13496.90
+\i (00:00:43) pick grid 12498.14 13486.64
+\t (00:00:43) last pick:  12500.00 13475.00
+\t (00:00:43) No DRC errors detected.
+\t (00:00:43) Pick first element.
+\i (00:00:44) pick grid 12504.98 13394.28
+\t (00:00:44) last pick:  12500.00 13400.00
+\t (00:00:44) Pick first element.
+\t (00:00:44) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:44) last pick:  12500.00 13400.00
+\i (00:00:44) mouse_pos 13093.29 13380.60
+\i (00:00:44) pick grid 13209.59 13397.71
+\t (00:00:44) last pick:  13200.00 13400.00
+\t (00:00:44) No DRC errors detected.
+\t (00:00:44) Pick first element.
+\i (00:00:45) pick grid 13192.48 13301.93
+\t (00:00:45) last pick:  13200.00 13300.00
+\t (00:00:45) Pick first element.
+\t (00:00:45) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:45) last pick:  13200.00 13300.00
+\i (00:00:45) mouse_pos 12556.29 13312.20
+\i (00:00:46) pick grid 12511.83 13312.20
+\t (00:00:46) last pick:  12500.00 13300.00
+\t (00:00:46) No DRC errors detected.
+\t (00:00:46) Pick first element.
+\i (00:00:46) pick grid 12487.88 13171.96
+\t (00:00:46) last pick:  12500.00 13175.00
+\t (00:00:46) Pick first element.
+\t (00:00:46) last pick:  12500.00 13200.00
+\t (00:00:46) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:46) last pick:  12500.00 13200.00
+\i (00:00:46) mouse_pos 13093.29 13178.80
+\i (00:00:47) pick grid 13213.01 13202.74
+\t (00:00:47) last pick:  13225.00 13200.00
+\t (00:00:47) No DRC errors detected.
+\t (00:00:47) Pick
