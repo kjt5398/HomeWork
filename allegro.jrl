@@ -101,4 +101,106 @@
 \i (01:05:18) setwindow pcb
 \i (01:05:18) generaledit 
 \i (01:05:32) save 
-\i (
+\i (01:05:33) fillin yes 
+\t (01:05:34) Symbol 'my_pbga256.psm' created.
+\i (01:05:34) generaledit 
+\i (01:06:05) pick grid 11.271 3.715
+\t (01:06:05) last pick:  10.160 2.540
+\i (01:06:08) zoom in 1 
+\i (01:06:08) setwindow pcb
+\i (01:06:08) zoom in -0.132 0.500
+\i (01:06:08) trapsize 76
+\i (01:06:10) drag_start grid -0.678 0.091
+\i (01:06:10) move 
+\t (01:06:10) last pick:  0.000 0.000
+\t (01:06:10) Pick new location for the element(s).
+\i (01:06:11) drag_stop grid 10.665 2.229
+\i (01:06:11) generaledit 
+\i (01:06:11) pick grid 10.816 -1.532
+\t (01:06:11) last pick:  10.160 -2.540
+\i (01:06:11) zoom out 1 
+\i (01:06:11) setwindow pcb
+\i (01:06:11) zoom out 10.801 -1.714
+\i (01:06:11) trapsize 152
+\i (01:06:12) pick grid 11.651 0.440
+\t (01:06:12) last pick:  12.700 0.000
+\i (01:06:15) pick grid 12.439 -2.138
+\t (01:06:15) last pick:  12.700 -2.540
+\i (01:06:20) roam start
+\i (01:06:20) roam x 48
+\i (01:06:20) roam y 16
+\i (01:06:20) roam x 32
+\i (01:06:20) roam y 32
+\i (01:06:20) roam x 32
+\i (01:06:20) roam y 32
+\i (01:06:21) roam end
+\i (01:06:51) open 
+\e (01:06:51) Do you want to save the changes you made to C:/Users/user/Desktop/7.16home/my_pbga256.dra?
+\i (01:06:53) fillin yes 
+\t (01:06:53) Symbol 'my_pbga256.psm' created.
+\i (01:06:57) fillin "my_NonPbga256.dra"
+\t (01:06:57) Opening existing design...
+\i (01:06:57) trapsize 254
+\d (01:06:57) Design opened: C:/Users/user/Desktop/7.16home/my_NonPbga256.dra
+\i (01:06:57) generaledit 
+\i (01:06:59) pick grid 12.223 11.976
+\t (01:06:59) last pick:  12.700 12.700
+\i (01:07:02) artwork 
+\i (01:07:04) setwindow form.film_control
+\i (01:07:04) FORM film_control cancel  
+\i (01:07:04) setwindow pcb
+\i (01:07:04) generaledit 
+\i (01:07:20) pick grid 12.223 12.078
+\t (01:07:20) last pick:  12.700 12.700
+\i (01:07:26) replace padstack 
+\i (01:07:46) pick grid -12.186 11.976
+\t (01:07:46) last pick:  -12.700 12.700
+\i (01:07:48) setwindow form.mini
+\i (01:07:48) FORM mini newname_browse  
+\t (01:07:51) No valid name selected.
+\i (01:07:53) fillin "My_Bga256_040"
+\i (01:07:59) FORM mini replace  
+\i (01:08:01) setwindow pcb
+\i (01:08:01) prepopup 19.582 6.344
+\i (01:08:01) done 
+\t (01:08:01) Performing DRC...
+\t (01:08:02) No DRC errors detected.
+\i (01:08:02) generaledit 
+\i (01:08:02) zoom in 1 
+\i (01:08:02) setwindow pcb
+\i (01:08:02) zoom in -2.798 6.242
+\i (01:08:02) trapsize 127
+\i (01:08:04) zoom out 1 
+\i (01:08:04) setwindow pcb
+\i (01:08:04) zoom out -4.903 7.055
+\i (01:08:04) trapsize 254
+\i (01:08:05) save 
+\i (01:08:08) fillin yes 
+\t (01:08:08) Symbol 'my_nonpbga256.psm' created.
+\i (01:08:08) generaledit 
+\i (01:14:23) roam start
+\i (01:14:23) roam x -80
+\i (01:14:23) roam y 16
+\i (01:14:23) roam y 16
+\i (01:14:23) roam x -16
+\i (01:14:23) roam x -32
+\i (01:14:23) roam y 16
+\i (01:14:23) roam x -32
+\i (01:14:23) roam y 16
+\i (01:14:23) roam x -32
+\i (01:14:23) roam y -32
+\i (01:14:23) roam x -16
+\i (01:14:23) roam y -16
+\i (01:14:23) roam x -48
+\i (01:14:24) roam y 16
+\i (01:14:24) roam x 16
+\i (01:14:24) roam end
+\i (01:22:17) pick grid -24.060 1.777
+\t (01:22:17) last pick:  -22.860 2.540
+\i (01:23:35) new 
+\i (01:23:37) newdrawfillin "menu_cancel"
+\i (01:23:37) generaledit 
+\i (01:23:38) drag_start grid 24.403 12.586
+\i (01:23:38) drag_stop 25.671 13.093
+\i (01:25:03) exit 
+\t (01:25:03)     Journal end - Wed Jul 17 10:46:51 2019
